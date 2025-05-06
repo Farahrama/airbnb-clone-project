@@ -162,3 +162,8 @@ POST /reviews/ - Create a new review
 GET /reviews/{review_id}/ - Retrieve a specific review
 PUT /reviews/{review_id}/ - Update a specific review
 DELETE /reviews/{review_id}/ - Delete a specific review
+-------------------------------------
+API Security
+📈 API Documentation Overview
+REST API: Detailed documentation available through the OpenAPI standard, including endpoints for users, properties, bookings, and payments.
+GraphQL API: Provides a flexible query language for retrieving and manipulating data.
