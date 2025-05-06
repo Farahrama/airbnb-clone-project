@@ -167,3 +167,6 @@ API Security
 📈 API Documentation Overview
 REST API: Detailed documentation available through the OpenAPI standard, including endpoints for users, properties, bookings, and payments.
 GraphQL API: Provides a flexible query language for retrieving and manipulating data.
+----------------------------------------
+CI/CD Pipeline
+CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
